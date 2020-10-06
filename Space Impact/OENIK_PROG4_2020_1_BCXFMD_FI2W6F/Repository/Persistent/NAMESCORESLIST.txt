@@ -1,0 +1,9 @@
+ZED:100
+TEST:50
+Vader:20
+xxx:30
+xxx:30
+MR EF:0
+fdsfsd:80
+vidi:10
+Adam:450
